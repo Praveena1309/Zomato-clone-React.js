@@ -1,3 +1,6 @@
+![Screenshot (61)](https://github.com/Praveena1309/Zomato-clone-React.js/assets/121342359/49f7b0b7-944c-4e6d-a94a-00efad2ab7c3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
