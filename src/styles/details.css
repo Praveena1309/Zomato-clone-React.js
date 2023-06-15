@@ -1,0 +1,61 @@
+.bannerImg{
+    width: auto;
+    height: 33rem;
+}
+
+#paynowbtn{
+    margin-left: 600px;
+    margin-top: -60px;
+}
+
+.item-total{
+    margin-top: 21px;
+    margin-bottom: 5px;
+    text-align: left;
+    font: normal normal bold 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #292C40;
+    opacity: 1;
+}
+
+.add-button {
+    position: absolute;
+    margin-top: -1rem;
+    left: 40rem;
+    width: 65px;
+    color: #61B246;
+    height: 29px;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+.add-number {
+    position: absolute;
+    margin-top: -1rem;
+    left: 40rem;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+   
+    opacity: 1;
+    width: 65px;
+    height: 29px;
+
+}
+#dectotal{
+    width: 24px;
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+    font-weight: bold; 
+
+}
+#intotal{
+    color: #61B246;
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+    font-weight: bold; 
+
+}
+.qty{
+    color: #61B246;
+    font-weight: bold; 
+    border-radius: 50%;
+    background-color: antiquewhite;
+}

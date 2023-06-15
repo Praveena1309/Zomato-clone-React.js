@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    box-sizing:border-box;
+    font-family:Poppins ;
+}
+.bg-image{
+    background-image: url("../../public/img/shutterstock_348320018.png");
+    background-position: center;
+    background-size: cover;
+    height: 480px;
+    box-shadow: 0 10px 20px #9D0E0E00 inset, 0 1px 200px #9D0E0E00 inset, 0px 10px 200px #000 inset, 0 0 150px #4F0707 inset;
+}
+.login, .createacct{
+    text-decoration: none;
+    color: white;
+}
+.login:hover, .createacct:hover{
+    color: white;
+    opacity: 0.8;
+}
+
+.logoid{
+    color: #EB2929;
+    background-color: white;
+    font-size: 70px;
+    display: inline;
+    border-radius: 50%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    
+}
+.createacct{
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.restaurant-title{
+    font: normal normal 600 36px/55px Poppins;
+    color: white;
+    opacity: 1;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.loactiondropdown{
+    font: normal normal normal 15px/23px Poppins;
+    color: #636F88;
+    opacity: 1;
+    letter-spacing: 0;
+    border-color: white;
+    top: 439px;
+    left: 612px;
+    width: 245px;
+    height: 45px;
+}
+.Breakfastdhdh{
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 7px;
+    margin-left: -17px;
+}
+.mainLoginInput{
+    font: normal normal normal 15px/23px Poppins;
+    color: #636F88;
+    text-align: left !important;
+    opacity: 1;
+    letter-spacing: 0;
+    border-color: white;
+    width: 477px;
+    height: 45px;
+   }
+.input-group{
+    left: 21px;
+}
+.prodetail{
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    margin-top: 15px;
+    margin-left: -16px;
+    margin-right: -20px;
+}
+#crjf{
+    margin-left: 15px;
+}
+.Quick{
+    color: #192F60;
+    font: normal normal bold 30px/46px Poppins;
+
+}
+.Discover{
+    color: #8C96AB;
+    font: normal normal normal 18px/27px Poppins;
+}
+.menu-head{
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color:#192F60;
+    opacity: 1;
+    font-size: 18px;
+    font-weight:bold;
+    
+}
+.prodis{
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+}
+.product{
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 6px #00000029;
+        opacity: 1;
+        display: flex;
+        width: 334px;
+        height: 160px;
+        margin: 19px;
+
+    
+}
+#gbvcd{
+    margin-left: 0px;
+}
+#nnfd{
+    margin-left: 63px;
+}
+.productimgggb{
+    width: 152px;
+    height: 160px;
+    border-radius: 0;
+    position: inherit;
+    left: -12px;
+    margin-left: -13px;
+}
+.suggestionbox{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 3px 0px 10px 0px;
+    width: 477px;
+    margin: 46px 0 0px 0px;
+    text-align: left;
+}
+.suggimg{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    display: initial;
+    margin: 6px 18px 0px -26px;
+}
+.suggheading{
+    color: #192F60;
+    font-weight: 700;
+}
+.suggtext{
+    color: #636F88;
+    font-size: 10px;
+    display: block;
+    margin: -17px 0px 8px 33px;
+}
